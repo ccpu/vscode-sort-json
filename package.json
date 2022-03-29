@@ -1,14 +1,14 @@
 {
-    "name": "vscode-sort-json",
+    "name": "vscode-sort-json-fork",
     "version": "1.20.0",
     "description": "Sorts the keys within JSON objects",
     "publisher": "richie5um2",
     "author": "Rich Somerfield",
     "license": "MIT",
-    "homepage": "https://github.com/richie5um/vscode-sort-json",
+    "homepage": "https://github.com/ccpu/vscode-sort-json/vscode-sort-json",
     "repository": {
         "type": "git",
-        "url": "https://github.com/richie5um/vscode-sort-json"
+        "url": "https://github.com/ccpu/vscode-sort-json/vscode-sort-json"
     },
     "bugs": {
         "url": "https://github.com/richie5um/vscode-sort-json/issues"
@@ -27,7 +27,7 @@
         "vscode": "0.10.x",
         "mocha": "~2.3.3"
     },
-    "displayName": "Sort JSON objects",
+    "displayName": "Sort JSON objects Fork",
     "icon": "resources/Icon.png",
     "engines": {
         "vscode": "0.10.x"
